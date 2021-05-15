@@ -1,0 +1,23 @@
+{
+  "name": "cowin-vaccine-slot-checker",
+  "version": "1.0.0",
+  "description": "This is a Python script which will help you to know when a slot is available on Cowin website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizulhai24/cowin-vaccine-slot-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizulhai24/cowin-vaccine-slot-checker/issues"
+  },
+  "homepage": "https://github.com/faizulhai24/cowin-vaccine-slot-checker#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
